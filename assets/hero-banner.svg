@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Satyabrata Pradhan — Software Engineering, AI/ML &amp; Generative AI</title>
+  <desc id="desc">Animated Obsidian dark GitHub profile banner with restrained cyan accents and a subtle computational network.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A0F17"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="48%" r="48%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity=".075"/>
+      <stop offset="48%" stop-color="#38BDF8" stop-opacity=".025"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8B949E" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity=".08"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity=".08"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="0.5" y="0.5" width="1199" height="299" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)">
+    <animate attributeName="opacity" values=".55;1;.55" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;16 16;0 0" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <g clip-path="url(#clip)">
+    <!-- slow ambient traces -->
+    <path d="M0 258 C180 220 280 275 455 245" fill="none" stroke="url(#line)" stroke-width="1">
+      <animate attributeName="stroke-opacity" values=".25;.7;.25" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M755 46 C900 12 1045 60 1200 30" fill="none" stroke="#38BDF8" stroke-opacity=".10" stroke-width="1">
+      <animate attributeName="stroke-opacity" values=".08;.28;.08" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- computational graph -->
+    <g fill="none" stroke="#38BDF8" stroke-opacity=".20" stroke-width="1">
+      <path d="M825 92 L925 62 L1020 102 L1110 70"/>
+      <path d="M825 92 L935 145 L1035 125 L1110 70"/>
+      <path d="M835 205 L935 145 L1035 185 L1130 145"/>
+      <path d="M835 205 L950 235 L1035 185 L1130 220"/>
+      <path d="M925 62 L935 145 L950 235"/>
+      <path d="M1020 102 L1035 185 L1110 70"/>
+      <path d="M1035 125 L1130 145 L1035 185"/>
+    </g>
+
+    <!-- moving data pulse -->
+    <circle r="3" fill="#38BDF8" opacity=".8" filter="url(#softGlow)">
+      <animateMotion dur="3.8s" repeatCount="indefinite" path="M825 92 L935 145 L1035 185 L1130 220"/>
+    </circle>
+    <circle r="2.5" fill="#38BDF8" opacity=".65" filter="url(#softGlow)">
+      <animateMotion dur="4.6s" begin="1.2s" repeatCount="indefinite" path="M925 62 L1020 102 L1035 125 L1110 70"/>
+    </circle>
+
+    <!-- nodes -->
+    <g fill="#0D1117" stroke="#38BDF8" stroke-opacity=".58" stroke-width="1.4">
+      <circle cx="825" cy="92" r="4"><animate attributeName="r" values="4;5;4" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="925" cy="62" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1020" cy="102" r="4"><animate attributeName="r" values="4;5;4" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="70" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="935" cy="145" r="5"><animate attributeName="r" values="5;7;5" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1035" cy="125" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.0s" repeatCount="indefinite"/></circle>
+      <circle cx="835" cy="205" r="4"><animate attributeName="r" values="4;5;4" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="235" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="1035" cy="185" r="5"><animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="145" r="4"><animate attributeName="r" values="4;5;4" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="220" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- pulsing core halos -->
+    <circle cx="935" cy="145" r="10" fill="#38BDF8" fill-opacity=".035">
+      <animate attributeName="r" values="8;16;8" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values=".02;.09;.02" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1035" cy="185" r="9" fill="#38BDF8" fill-opacity=".03">
+      <animate attributeName="r" values="7;15;7" dur="3.7s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values=".02;.08;.02" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8B949E" fill-opacity=".52">
+      <text x="815" y="82">INPUT</text><text x="925" y="51">EMBED</text>
+      <text x="1015" y="93">MODEL</text><text x="1090" y="58">OUTPUT</text>
+    </g>
+
+    <!-- identity -->
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
+      <rect x="68" y="54" width="274" height="28" rx="14" fill="#161B22" stroke="#21262D"/>
+      <circle cx="86" cy="68" r="4" fill="#38BDF8" fill-opacity=".8">
+        <animate attributeName="fill-opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="99" y="72" font-size="12" font-weight="600" fill="#8B949E">B.Tech CSE '27  ·  Haldia Institute of Technology</text>
+
+      <text x="68" y="137" font-size="43" font-weight="700" letter-spacing="-1.2" fill="#F0F6FC">Satyabrata Pradhan</text>
+
+      <text x="70" y="171" font-size="15" font-weight="500" fill="#38BDF8">Software Engineering</text>
+      <circle cx="224" cy="166" r="2" fill="#8B949E" fill-opacity=".55"/>
+      <text x="239" y="171" font-size="15" font-weight="500" fill="#38BDF8">AI / ML</text>
+      <circle cx="307" cy="166" r="2" fill="#8B949E" fill-opacity=".55"/>
+      <text x="322" y="171" font-size="15" font-weight="500" fill="#38BDF8">Generative AI</text>
+
+      <line x1="68" y1="205" x2="650" y2="205" stroke="#21262D" stroke-width="1"/>
+      <line x1="68" y1="205" x2="245" y2="205" stroke="#38BDF8" stroke-opacity=".42" stroke-width="1">
+        <animate attributeName="x2" values="120;360;120" dur="6s" repeatCount="indefinite"/>
+      </line>
+
+      <text x="68" y="231" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8B949E">
+        building practical software · exploring intelligent systems
+      </text>
+      <text x="68" y="257" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" fill-opacity=".55">
+        JAVA  /  PYTHON  /  ML  /  NLP  /  GENAI
+      </text>
+    </g>
+
+    <g stroke="#38BDF8" stroke-opacity=".25" stroke-width="1">
+      <path d="M26 38h12M32 32v12"/><path d="M1174 262h-12M1168 256v12"/>
+    </g>
+  </g>
+
+  <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#21262D" stroke-width="1"/>
+</svg>
