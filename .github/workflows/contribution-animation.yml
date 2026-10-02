@@ -28,7 +28,7 @@ jobs:
         with:
           github_user_name: spradhan33
           outputs: |
-            assets/github-contribution-grid-snake.svg?color_snake=#38BDF8&color_dots=#161B22,#102a43,#1a4a75,#246eb9,#38bdf8
+            assets/github-contribution-grid-snake.svg?color_snake=#D8CFBC&color_dots=#11120D,#565449,#7A7668,#D8CFBC,#FFFBF4
 
       - name: Commit and Push Generated SVG
         run: |
