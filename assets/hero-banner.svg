@@ -1,132 +1,151 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Satyabrata Pradhan — Software Engineering, AI/ML &amp; Generative AI</title>
-  <desc id="desc">Animated Obsidian dark GitHub profile banner with restrained cyan accents and a subtle computational network.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmN2E5NmYwYy05MTk4LTRmMGMtOGI1Zi0yNzEwZjM2MmQzNGUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNfzpnSjZWmorLYWSr2v3WkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozOTczYmY4Yi1mZmIzLTQ4MmItYTQ2ZS1kOGRlMWM0ZWRlOTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoe5rZzVp5EFT306t7PPZWMQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggB7CLwS30Nc9rlq6nsl4YMQN1IZ1To3QhTx0XmNSiXz6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMG5fCUlRF2FID/2oK2rzPgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC9aan+pOWUSAPoRna52PV52DQUwXkvYw86QwFAe09tHmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi5Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY3YTk2ZjBjLTkxOTgtNGYwYy04YjVmLTI3MTBmMzYyZDM0ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEwNmQ4ZDU3LTJlNDAtNDBjOC1iM2FlLTcxYTk4YzI3MzVlYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAHsIvBLfQ1z2uWrqeyXhgxA3UhnVOjdCFPHReY1KJfPqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggC/3ezZ5VOZO5prrdSQ8CZF52+6USuS1YtAdwDBkmiCyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggsIE2ydxQo7Ort5WBUmpbqqjR1yotAQnwMsnfSQIaorN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDBcShmNwZiUUMiQ+hk7l/Wya76Ne1usOaMskh3Sqz/Fs8V5MzsbDt4cOokEb3IroVv/YVW8kGeazqXhiIasYCw=</c2pa:manifest></metadata>
+<title id="t">Satyabrata Pradhan — Software Engineering, AI/ML and Generative AI</title>
+<desc id="d">Animated profile banner in smoky black, olive drab, bone and floral white with a pulsing neural network.</desc>
+<defs>
+<radialGradient id="halo" cx="76%" cy="50%" r="55%"><stop offset="0" stop-color="#565449" stop-opacity=".42"/><stop offset="1" stop-color="#565449" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#565449" stroke-opacity=".28" stroke-width="1"/></pattern>
+<linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#D8CFBC" stop-opacity="0"/><stop offset=".5" stop-color="#D8CFBC" stop-opacity=".16"/><stop offset="1" stop-color="#D8CFBC" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#D8CFBC" stop-opacity="0"/><stop offset="1" stop-color="#D8CFBC"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+<clipPath id="type"><rect x="72" y="196" width="0" height="30"><animate attributeName="width" values="0;0;342;342;0" keyTimes="0;.06;.50;.92;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>
+.serif{font-family:Georgia,'Iowan Old Style','Palatino Linotype','Times New Roman',serif}
+.mono{font-family:ui-monospace,'SFMono-Regular','Cascadia Mono',Menlo,Consolas,monospace}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.in{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="320" fill="#11120D"/>
+<rect width="1200" height="320" fill="url(#halo)"><animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/></rect>
+<rect width="1200" height="320" fill="url(#grid)"><animateTransform attributeName="transform" type="translate" values="0 0;32 32" dur="16s" repeatCount="indefinite"/></rect>
 
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#090D16"/>
-      <stop offset="55%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#0A0F17"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="82%" cy="48%" r="48%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity=".075"/>
-      <stop offset="48%" stop-color="#38BDF8" stop-opacity=".025"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#8B949E" stroke-opacity=".055" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity=".08"/>
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity=".34"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity=".08"/>
-    </linearGradient>
-    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect x="0.5" y="0.5" width="1199" height="299" rx="18"/></clipPath>
-  </defs>
+<!-- network -->
+<g stroke="#565449" stroke-width="1" stroke-opacity=".75"><line x1="800" y1="78" x2="905" y2="62"/>
+<line x1="800" y1="78" x2="905" y2="108"/>
+<line x1="800" y1="78" x2="905" y2="154"/>
+<line x1="800" y1="78" x2="905" y2="200"/>
+<line x1="800" y1="78" x2="905" y2="246"/>
+<line x1="800" y1="128" x2="905" y2="62"/>
+<line x1="800" y1="128" x2="905" y2="108"/>
+<line x1="800" y1="128" x2="905" y2="154"/>
+<line x1="800" y1="128" x2="905" y2="200"/>
+<line x1="800" y1="128" x2="905" y2="246"/>
+<line x1="800" y1="178" x2="905" y2="62"/>
+<line x1="800" y1="178" x2="905" y2="108"/>
+<line x1="800" y1="178" x2="905" y2="154"/>
+<line x1="800" y1="178" x2="905" y2="200"/>
+<line x1="800" y1="178" x2="905" y2="246"/>
+<line x1="800" y1="228" x2="905" y2="62"/>
+<line x1="800" y1="228" x2="905" y2="108"/>
+<line x1="800" y1="228" x2="905" y2="154"/>
+<line x1="800" y1="228" x2="905" y2="200"/>
+<line x1="800" y1="228" x2="905" y2="246"/>
+<line x1="905" y1="62" x2="1010" y2="62"/>
+<line x1="905" y1="62" x2="1010" y2="108"/>
+<line x1="905" y1="62" x2="1010" y2="154"/>
+<line x1="905" y1="62" x2="1010" y2="200"/>
+<line x1="905" y1="62" x2="1010" y2="246"/>
+<line x1="905" y1="108" x2="1010" y2="62"/>
+<line x1="905" y1="108" x2="1010" y2="108"/>
+<line x1="905" y1="108" x2="1010" y2="154"/>
+<line x1="905" y1="108" x2="1010" y2="200"/>
+<line x1="905" y1="108" x2="1010" y2="246"/>
+<line x1="905" y1="154" x2="1010" y2="62"/>
+<line x1="905" y1="154" x2="1010" y2="108"/>
+<line x1="905" y1="154" x2="1010" y2="154"/>
+<line x1="905" y1="154" x2="1010" y2="200"/>
+<line x1="905" y1="154" x2="1010" y2="246"/>
+<line x1="905" y1="200" x2="1010" y2="62"/>
+<line x1="905" y1="200" x2="1010" y2="108"/>
+<line x1="905" y1="200" x2="1010" y2="154"/>
+<line x1="905" y1="200" x2="1010" y2="200"/>
+<line x1="905" y1="200" x2="1010" y2="246"/>
+<line x1="905" y1="246" x2="1010" y2="62"/>
+<line x1="905" y1="246" x2="1010" y2="108"/>
+<line x1="905" y1="246" x2="1010" y2="154"/>
+<line x1="905" y1="246" x2="1010" y2="200"/>
+<line x1="905" y1="246" x2="1010" y2="246"/>
+<line x1="1010" y1="62" x2="1115" y2="100"/>
+<line x1="1010" y1="62" x2="1115" y2="154"/>
+<line x1="1010" y1="62" x2="1115" y2="208"/>
+<line x1="1010" y1="108" x2="1115" y2="100"/>
+<line x1="1010" y1="108" x2="1115" y2="154"/>
+<line x1="1010" y1="108" x2="1115" y2="208"/>
+<line x1="1010" y1="154" x2="1115" y2="100"/>
+<line x1="1010" y1="154" x2="1115" y2="154"/>
+<line x1="1010" y1="154" x2="1115" y2="208"/>
+<line x1="1010" y1="200" x2="1115" y2="100"/>
+<line x1="1010" y1="200" x2="1115" y2="154"/>
+<line x1="1010" y1="200" x2="1115" y2="208"/>
+<line x1="1010" y1="246" x2="1115" y2="100"/>
+<line x1="1010" y1="246" x2="1115" y2="154"/>
+<line x1="1010" y1="246" x2="1115" y2="208"/></g>
+<rect y="30" width="90" height="270" fill="url(#scan)"><animate attributeName="x" values="740;1180" dur="5.5s" repeatCount="indefinite"/></rect>
+<circle r="3.2" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="4.1s" begin="1.2s" repeatCount="indefinite" path="M800 128 L905 200 L1010 62 L1115 100"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="4.1s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle r="2.6" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="4.9s" begin="1.9s" repeatCount="indefinite" path="M800 78 L905 154 L1010 246 L1115 100"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="4.9s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="5.1s" begin="2.6s" repeatCount="indefinite" path="M800 128 L905 62 L1010 62 L1115 154"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="5.1s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle r="2.6" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="4.3s" begin="3.3s" repeatCount="indefinite" path="M800 128 L905 62 L1010 246 L1115 154"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="4.3s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="3.7s" begin="4.0s" repeatCount="indefinite" path="M800 78 L905 108 L1010 246 L1115 100"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.7s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle r="2.6" fill="#FFFBF4" filter="url(#glow)" opacity="0">
+<animateMotion dur="4.5s" begin="4.7s" repeatCount="indefinite" path="M800 228 L905 62 L1010 108 L1115 100"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="4.5s" begin="4.7s" repeatCount="indefinite"/></circle>
 
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#glow)">
-    <animate attributeName="opacity" values=".55;1;.55" dur="5s" repeatCount="indefinite"/>
-  </rect>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)">
-    <animateTransform attributeName="transform" type="translate" values="0 0;16 16;0 0" dur="12s" repeatCount="indefinite"/>
-  </rect>
+<g fill="#11120D" stroke="#D8CFBC" stroke-width="1.4"><circle cx="800" cy="78" r="5"><animate attributeName="r" values="5;6.6;5" dur="2.40s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="128" r="5"><animate attributeName="r" values="5;6.6;5" dur="2.85s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="178" r="5"><animate attributeName="r" values="5;6.6;5" dur="3.30s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="228" r="5"><animate attributeName="r" values="5;6.6;5" dur="3.75s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="62" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="4.20s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="108" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="2.40s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="154" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="2.85s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="200" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="3.30s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="246" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="3.75s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="62" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="4.20s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="108" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="2.40s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="154" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="2.85s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="200" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="3.30s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="246" r="4.2"><animate attributeName="r" values="4.2;5.800000000000001;4.2" dur="3.75s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1115" cy="100" r="5"><animate attributeName="r" values="5;6.6;5" dur="4.20s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="1115" cy="154" r="5"><animate attributeName="r" values="5;6.6;5" dur="2.40s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1115" cy="208" r="5"><animate attributeName="r" values="5;6.6;5" dur="2.85s" begin="0.6s" repeatCount="indefinite"/></circle>
+</g>
+<g class="mono" font-size="9" fill="#D8CFBC" fill-opacity=".55" letter-spacing="1.6" text-anchor="middle">
+<text x="800" y="274">INPUT</text><text x="905" y="274">EMBED</text><text x="1010" y="274">HIDDEN</text><text x="1115" y="274">OUTPUT</text></g>
 
-  <g clip-path="url(#clip)">
-    <!-- slow ambient traces -->
-    <path d="M0 258 C180 220 280 275 455 245" fill="none" stroke="url(#line)" stroke-width="1">
-      <animate attributeName="stroke-opacity" values=".25;.7;.25" dur="4.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M755 46 C900 12 1045 60 1200 30" fill="none" stroke="#38BDF8" stroke-opacity=".10" stroke-width="1">
-      <animate attributeName="stroke-opacity" values=".08;.28;.08" dur="5.5s" repeatCount="indefinite"/>
-    </path>
+<!-- identity -->
+<g class="in" style="animation-delay:.1s">
+<rect x="72" y="50" width="372" height="30" rx="15" fill="none" stroke="#565449" stroke-width="1.2"/>
+<circle cx="92" cy="65" r="4" fill="#FFFBF4"><animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="106" y="69.5" class="mono" font-size="11.5" fill="#D8CFBC" letter-spacing=".4" textLength="320" lengthAdjust="spacing">B.TECH CSE '27  ·  HALDIA INSTITUTE OF TECHNOLOGY</text>
+</g>
+<g class="in serif" style="animation-delay:.3s">
+<text x="72" y="152" font-size="64" fill="#D8CFBC" letter-spacing="-1.5">Satyabrata Pradhan</text>
+</g>
+<g class="in" style="animation-delay:.55s">
+<text x="72" y="190" class="mono" font-size="11" fill="#D8CFBC" fill-opacity=".6" letter-spacing="2.4">SOFTWARE ENGINEER  /  AI-ML DEVELOPER</text>
+</g>
 
-    <!-- computational graph -->
-    <g fill="none" stroke="#38BDF8" stroke-opacity=".20" stroke-width="1">
-      <path d="M825 92 L925 62 L1020 102 L1110 70"/>
-      <path d="M825 92 L935 145 L1035 125 L1110 70"/>
-      <path d="M835 205 L935 145 L1035 185 L1130 145"/>
-      <path d="M835 205 L950 235 L1035 185 L1130 220"/>
-      <path d="M925 62 L935 145 L950 235"/>
-      <path d="M1020 102 L1035 185 L1110 70"/>
-      <path d="M1035 125 L1130 145 L1035 185"/>
-    </g>
+<g clip-path="url(#type)"><text x="72" y="219" class="mono" font-size="17" fill="#FFFBF4" textLength="340" lengthAdjust="spacing">&gt; Machine Learning · Generative AI</text></g>
+<rect y="205" width="9" height="18" fill="#D8CFBC"><animate attributeName="x" values="72;72;414;414;72" keyTimes="0;.06;.50;.92;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 
-    <!-- moving data pulse -->
-    <circle r="3" fill="#38BDF8" opacity=".8" filter="url(#softGlow)">
-      <animateMotion dur="3.8s" repeatCount="indefinite" path="M825 92 L935 145 L1035 185 L1130 220"/>
-    </circle>
-    <circle r="2.5" fill="#38BDF8" opacity=".65" filter="url(#softGlow)">
-      <animateMotion dur="4.6s" begin="1.2s" repeatCount="indefinite" path="M925 62 L1020 102 L1035 125 L1110 70"/>
-    </circle>
+<line x1="72" y1="248" x2="640" y2="248" stroke="#565449" stroke-width="1"/>
+<rect x="72" y="247" width="140" height="2" fill="url(#sweep)"><animate attributeName="x" values="72;500;72" dur="7s" repeatCount="indefinite"/></rect>
+<text x="72" y="276" class="mono in" style="animation-delay:.8s" font-size="10.5" fill="#D8CFBC" fill-opacity=".7" letter-spacing="2">JAVA  ·  PYTHON  ·  TENSORFLOW  ·  NLP  ·  GENAI</text>
 
-    <!-- nodes -->
-    <g fill="#0D1117" stroke="#38BDF8" stroke-opacity=".58" stroke-width="1.4">
-      <circle cx="825" cy="92" r="4"><animate attributeName="r" values="4;5;4" dur="2.8s" repeatCount="indefinite"/></circle>
-      <circle cx="925" cy="62" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.4s" repeatCount="indefinite"/></circle>
-      <circle cx="1020" cy="102" r="4"><animate attributeName="r" values="4;5;4" dur="2.5s" repeatCount="indefinite"/></circle>
-      <circle cx="1110" cy="70" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="935" cy="145" r="5"><animate attributeName="r" values="5;7;5" dur="2.2s" repeatCount="indefinite"/></circle>
-      <circle cx="1035" cy="125" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.0s" repeatCount="indefinite"/></circle>
-      <circle cx="835" cy="205" r="4"><animate attributeName="r" values="4;5;4" dur="2.7s" repeatCount="indefinite"/></circle>
-      <circle cx="950" cy="235" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.3s" repeatCount="indefinite"/></circle>
-      <circle cx="1035" cy="185" r="5"><animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/></circle>
-      <circle cx="1130" cy="145" r="4"><animate attributeName="r" values="4;5;4" dur="2.9s" repeatCount="indefinite"/></circle>
-      <circle cx="1130" cy="220" r="4"><animate attributeName="r" values="4;5.5;4" dur="3.2s" repeatCount="indefinite"/></circle>
-    </g>
-
-    <!-- pulsing core halos -->
-    <circle cx="935" cy="145" r="10" fill="#38BDF8" fill-opacity=".035">
-      <animate attributeName="r" values="8;16;8" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values=".02;.09;.02" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1035" cy="185" r="9" fill="#38BDF8" fill-opacity=".03">
-      <animate attributeName="r" values="7;15;7" dur="3.7s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values=".02;.08;.02" dur="3.7s" repeatCount="indefinite"/>
-    </circle>
-
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8B949E" fill-opacity=".52">
-      <text x="815" y="82">INPUT</text><text x="925" y="51">EMBED</text>
-      <text x="1015" y="93">MODEL</text><text x="1090" y="58">OUTPUT</text>
-    </g>
-
-    <!-- identity -->
-    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
-      <rect x="68" y="54" width="274" height="28" rx="14" fill="#161B22" stroke="#21262D"/>
-      <circle cx="86" cy="68" r="4" fill="#38BDF8" fill-opacity=".8">
-        <animate attributeName="fill-opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="99" y="72" font-size="12" font-weight="600" fill="#8B949E">B.Tech CSE '27  ·  Haldia Institute of Technology</text>
-
-      <text x="68" y="137" font-size="43" font-weight="700" letter-spacing="-1.2" fill="#F0F6FC">Satyabrata Pradhan</text>
-
-      <text x="70" y="171" font-size="15" font-weight="500" fill="#38BDF8">Software Engineering</text>
-      <circle cx="224" cy="166" r="2" fill="#8B949E" fill-opacity=".55"/>
-      <text x="239" y="171" font-size="15" font-weight="500" fill="#38BDF8">AI / ML</text>
-      <circle cx="307" cy="166" r="2" fill="#8B949E" fill-opacity=".55"/>
-      <text x="322" y="171" font-size="15" font-weight="500" fill="#38BDF8">Generative AI</text>
-
-      <line x1="68" y1="205" x2="650" y2="205" stroke="#21262D" stroke-width="1"/>
-      <line x1="68" y1="205" x2="245" y2="205" stroke="#38BDF8" stroke-opacity=".42" stroke-width="1">
-        <animate attributeName="x2" values="120;360;120" dur="6s" repeatCount="indefinite"/>
-      </line>
-
-      <text x="68" y="231" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8B949E">
-        building practical software · exploring intelligent systems
-      </text>
-      <text x="68" y="257" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" fill-opacity=".55">
-        JAVA  /  PYTHON  /  ML  /  NLP  /  GENAI
-      </text>
-    </g>
-
-    <g stroke="#38BDF8" stroke-opacity=".25" stroke-width="1">
-      <path d="M26 38h12M32 32v12"/><path d="M1174 262h-12M1168 256v12"/>
-    </g>
-  </g>
-
-  <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#21262D" stroke-width="1"/>
+<!-- corner marks -->
+<g stroke="#D8CFBC" stroke-opacity=".35" stroke-width="1" fill="none"><path d="M28 36h14M35 29v14"/><path d="M1172 284h-14M1165 277v14"/></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="319" rx="20" fill="none" stroke="#565449" stroke-width="1"/>
 </svg>
