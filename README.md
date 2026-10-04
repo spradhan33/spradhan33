@@ -37,6 +37,8 @@
        width="100%" />
 </p>
 
+## Connect
+
 <p align="center">
   <img
     src="assets/connect/connect.svg"
