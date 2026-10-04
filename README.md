@@ -37,16 +37,30 @@
        width="100%" />
 </p>
 
-## Connect
+<p align="center">
+  <img
+    src="assets/connect/connect.svg"
+    alt="Connect with Satyabrata Pradhan"
+    width="100%"
+  />
+</p>
 
 <p align="center">
-  <a href="https://github.com/spradhan33" title="GitHub Profile">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/satyabrata-pradhan-ba0a51294" title="LinkedIn Profile">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:satyabratapradhan97531@gmail.com" title="Send Email">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/Satyabrata_Pradhan_2006/" title="LeetCode Profile">LeetCode</a>
-  &nbsp;•&nbsp;
-  Portfolio — Coming Soon
+  <a href="https://github.com/spradhan33">
+    <img src="assets/connect/btn-github.svg" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/satyabrata-pradhan-ba0a51294">
+    <img src="assets/connect/btn-linkedin.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:satyabratapradhan97531@gmail.com">
+    <img src="assets/connect/btn-email.svg" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satyabrata_Pradhan_2006/">
+    <img src="assets/connect/btn-leetcode.svg" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <img src="assets/connect/btn-portfolio.svg" alt="Portfolio — Coming Soon" />
 </p>
