@@ -2,7 +2,7 @@
   <img
     src="assets/hi.gif"
     alt="Hi"
-    width="140"
+    width="230"
   />
 </p>
 
