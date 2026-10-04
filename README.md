@@ -64,5 +64,9 @@
     <img src="assets/connect/btn-leetcode.svg" alt="LeetCode" />
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/satyabrata_pradhan._06">
+    <img src="assets/connect/btn-instagram.svg" alt="Instagram" />
+  </a>
+  &nbsp;
   <img src="assets/connect/btn-portfolio.svg" alt="Portfolio — Coming Soon" />
 </p>
