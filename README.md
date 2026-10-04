@@ -1,7 +1,17 @@
 <p align="center">
-  <img src="assets/hero-banner.svg"
-       alt="Satyabrata Pradhan — Software Engineering &amp; AI/ML"
-       width="100%" />
+  <img
+    src="assets/hi.gif"
+    alt="Hi"
+    width="140"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="assets/hero-banner.svg"
+    alt="Satyabrata Pradhan — Software Engineering &amp; AI/ML"
+    width="100%"
+  />
 </p>
 
 <p align="center">
